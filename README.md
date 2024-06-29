@@ -1,4 +1,8 @@
 # imagerenamer
+
+this is a project on progress
+
+
 this is for diybookscanner community
 
 This Python script uses the Tesseract OCR engine to perform OCR on multiple cropped image files. The script utilizes the pytesseract library to interact with the Tesseract OCR engine, and the tkinter library to create a GUI window for selecting image files.
